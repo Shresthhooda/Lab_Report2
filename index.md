@@ -2,7 +2,7 @@
 
 ## Code Change 1
 ---
-<img src="DiffOne.png" alt="Image" />
+<img src="https://github.com/Shresthhooda/Lab_Report2/blob/main/DiffOne.PNG?raw=trueg" alt="Image" />
 
 <img src="Error 1 Space.png" alt="Image" />
 
