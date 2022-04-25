@@ -1,4 +1,4 @@
-# Lab Report 2 by Shresth Hooda
+# Test Cases by Shresth Hooda
 
 ## Code Change 1
 ---
